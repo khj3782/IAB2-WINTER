@@ -1,9 +1,9 @@
-# IAB 실무응용2 코딩 기술서
+# IAB 실무응용2
 ## IoT, 인공지능, 빅데이터(IAB)의 실무응용2 개인 프로젝트 (2020년 동계)<br>
 - 연구자: 지구환경과학부/연합전공 인공지능반도체공학 김현진<br>
 - 연구 주제: 손동작을 이용한 라즈베이 파이 동작<br>
 - 연구 기간: 2020.12.22. Tue.~2021.01.22. Fri.<br>
-- 링크: [서울대학교 글로벌공학교육센터 GECE](http://gece.snu.ac.kr/gecexe/index.php?mid=gece_lms&category=51919&document_srl=57165)
+- 코딩기술서: [서울대학교 글로벌공학교육센터 GECE](http://gece.snu.ac.kr/gecexe/index.php?mid=gece_lms&category=51919&document_srl=57165)
 
 ----------
 
@@ -14,8 +14,10 @@
 - 사물인식
   - 데이터 수집
   - CNN 기반 모델을 이용한 학습 (YOLOv4-tiny)
-- 라즈베리 파이 동작
-- php 통신
+- **라즈베리 파이 동작**
+  - MyYoloIsVeryTiny.py
+- **php 통신**
+  - pjServer.php
 
 ## 참고한 페이지
 - https://github.com/puzzledqs/BBox-Label-Tool 
